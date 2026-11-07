@@ -4,6 +4,8 @@
 
 Je développe des applications web avec React, Next.js et Angular, ainsi que des API avec Node.js, Spring Boot et FastAPI. Mes projets explorent les interfaces utilisateur, les bases de données, l’authentification, les paiements et les fonctionnalités d’intelligence artificielle.
 
+[LinkedIn — Dimitry Desilias](https://www.linkedin.com/in/dimitry-desilias/)
+
 ## Technologies
 
 | Domaine | Technologies présentes dans mes projets |
