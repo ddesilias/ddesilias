@@ -16,9 +16,9 @@ Je développe des applications web avec React, Next.js et Angular, ainsi que des
 
 ## Projets publics
 
-- [V&V Society](https://github.com/ddesilias/vv) — portail web avec formulaire investisseur, signature et intégration de paiement MonCash.
+- [V&V Society](https://github.com/ddesilias/vv-society) — portail web avec formulaire investisseur, signature et intégration de paiement MonCash.
 - [Trade Mentor](https://github.com/ddesilias/trade-mentor) — application de chat et d’exploration de données de marché, adaptée du template AI Chatbot de Vercel.
-- [RAG Starter](https://github.com/ddesilias/ai-sdk-rag-starter) — expérimentation d’un assistant relié à une base de connaissances avec Next.js, PostgreSQL et le Vercel AI SDK.
+- [RAG Starter](https://github.com/ddesilias/nextjs-rag-starter) — expérimentation d’un assistant relié à une base de connaissances avec Next.js, PostgreSQL et le Vercel AI SDK.
 
 ## Apprentissage et open source
 
